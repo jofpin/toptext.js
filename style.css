@@ -1,0 +1,52 @@
+/*
+* Upload a range higher and lower one smaller range
+* css lover!
+* for preytext
+*/
+body {
+  background: #fffcdd;
+  text-align: center;
+}
+
+.btn {
+  text-aling:center;
+  position: relative;
+  padding: 0.50em 1em;
+  padding-top: 5em;
+  margin: 0 0.10em 0.10em;
+  border-radius: 1em;
+  font-family: 'Arial', cursive;
+  font-size: 1.30em;
+  color: #FFF;
+  cursor: pointer;
+  text-decoration: none;
+  -webkit-transition: all 0.1s;
+  -moz-transition: all 0.1s;
+  -ms-transition: all 0.1s;
+  -o-transition: all 0.1s;
+  transition: all 0.1s;
+  background-color: #3498DB;    
+  border-bottom: 0.2em solid #2980B9;    
+  text-shadow: 0 -0.1em #2980B9;
+}
+
+.btn:active {
+	top: 5px;
+	border-bottom: 0.2em solid;
+}
+
+/* lover css with .em */
+.emshar {
+  background-color: #E74C3C;    
+  border-bottom: 0.1em solid #BD3E31;
+  border-radius: 2em;
+  text-shadow: 0 -2px #BD3E31;
+  color: #fff;
+  text-align: center;
+  font-size: 5em;
+  font-family: Pacifico;
+  margin: 0 0 -1em;
+  box-shadow:0 0.21em 0.24em 0 rgba(0,0,0,0.2),
+             0 0.24em 0.24em 0 rgba(0,0,0,0.3),
+             0 0.21em 0.34em 0 rgba(0,0,0,0.8);
+}
