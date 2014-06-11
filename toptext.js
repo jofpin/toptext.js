@@ -2,7 +2,7 @@
 * toptext.js
 * Upload a range higher and lower one smaller range
 * Sube un rango mayor  y baja un rango menor
-* by @mrjopino
+* by @jofpin
 * for preytext
 */
 function Toptext(p, t) {
