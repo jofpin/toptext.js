@@ -5,4 +5,4 @@ toptext.js
 
 ## Developed with love
 
-* José Pino - [@mrjopino](https://twitter.com/mrjopino)
+* José Pino - [@mrjopino](https://twitter.com/jofpin)
